@@ -1,12 +1,29 @@
-# React + Vite
+## AVYUKT CORE TECHNOLOGIES - One Page Website(Assessment Task)
+A modern, responsive one-page website built with **React** and **Bootstrap**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live link : 
 
-Currently, two official plugins are available:
+## Preview
+<img width="1436" alt="act-1" src="https://github.com/user-attachments/assets/2e2d0c69-8321-41eb-8526-04c09d7fdea9" />
+<img width="1437" alt="act-2" src="https://github.com/user-attachments/assets/4559c9bf-894b-4b2e-b045-9a52714e46c7" />
+<img width="1435" alt="act-3" src="https://github.com/user-attachments/assets/214a6e37-4fd4-4072-95df-383a0a140aee" />
+<img width="1436" alt="act-4" src="https://github.com/user-attachments/assets/0eb1fb09-1112-42e1-aeae-38163e4cde1b" />
+<img width="1436" alt="act-5" src="https://github.com/user-attachments/assets/debc5167-fa15-4490-a97f-bed5c418b95b" />
+<img width="1436" alt="act-6" src="https://github.com/user-attachments/assets/470984d9-fd07-4b75-b5e0-3c9d360a4350" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design using Bootstrap 5
+- Smooth scrolling navigation
+- Clean Hero Section (Home)
+- Services / Solutions showcase
+- Pricing plans with hover effects
+- FAQ accordion section
+- Contact form with validation
+- Styled using custom CSS + Bootstrap
 
-## Expanding the ESLint configuration
+## Tech Stack
+- **React** (Functional Components)
+- **Bootstrap 5**
+- **Custom CSS**
+- **React Hooks (useState)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
