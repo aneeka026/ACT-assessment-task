@@ -4,12 +4,12 @@ A responsive one-page website built with **React** and **Bootstrap**.
 ## Live link : act-assesment-task.netlify.app
 
 ## Preview
-<img width="1436" alt="act-1" src="https://github.com/user-attachments/assets/2e2d0c69-8321-41eb-8526-04c09d7fdea9" />
-<img width="1437" alt="act-2" src="https://github.com/user-attachments/assets/4559c9bf-894b-4b2e-b045-9a52714e46c7" />
-<img width="1435" alt="act-3" src="https://github.com/user-attachments/assets/214a6e37-4fd4-4072-95df-383a0a140aee" />
-<img width="1436" alt="act-4" src="https://github.com/user-attachments/assets/0eb1fb09-1112-42e1-aeae-38163e4cde1b" />
-<img width="1436" alt="act-5" src="https://github.com/user-attachments/assets/debc5167-fa15-4490-a97f-bed5c418b95b" />
-<img width="1436" alt="act-6" src="https://github.com/user-attachments/assets/470984d9-fd07-4b75-b5e0-3c9d360a4350" />
+<img width="1436" alt="act-1" src="https://github.com/user-attachments/assets/9ea2ed47-1d21-4941-aacb-361ac03fe449" />
+<img width="1437" alt="act-2" src="https://github.com/user-attachments/assets/a30b48bc-4a77-4c63-ade6-9e50463d54c5" />
+<img width="1435" alt="act-3" src="https://github.com/user-attachments/assets/d2e54698-f0bb-4df7-ac1d-a83392728e44" />
+<img width="1436" alt="act-4" src="https://github.com/user-attachments/assets/5eaec211-ea68-46d4-ba26-abdb8501bee5" />
+<img width="1436" alt="act-5" src="https://github.com/user-attachments/assets/039eef29-3035-40b1-a059-065fede205ca" />
+<img width="1436" alt="act-6" src="https://github.com/user-attachments/assets/c4300782-d028-441e-bd08-e19ba708f293" />
 
 ## Features
 - Responsive design using Bootstrap 5
