@@ -1,7 +1,7 @@
 ## AVYUKT CORE TECHNOLOGIES - One Page Website(Assessment Task)
 A responsive one-page website built with **React** and **Bootstrap**.
 
-## Live link : 
+## Live link : act-assesment-task.netlify.app
 
 ## Preview
 <img width="1436" alt="act-1" src="https://github.com/user-attachments/assets/2e2d0c69-8321-41eb-8526-04c09d7fdea9" />
