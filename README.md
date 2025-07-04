@@ -1,5 +1,5 @@
 ## AVYUKT CORE TECHNOLOGIES - One Page Website(Assessment Task)
-A modern, responsive one-page website built with **React** and **Bootstrap**.
+A responsive one-page website built with **React** and **Bootstrap**.
 
 ## Live link : 
 
